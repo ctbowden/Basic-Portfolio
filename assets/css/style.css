@@ -107,12 +107,12 @@ p {
 #aboutme{
       float: left;
       max-width: 650px;
-      margin: 50px;
-      padding: 20px;
+      margin: 10px;
+      padding: 0;
       border-style: solid;
       background: white;
       border-color: #cccccc;
-      border-width: 1px;
+      border-width: 0;
 }
 
 #followme {
@@ -120,11 +120,11 @@ p {
       max-width: 270px;
       max-height: auto;
       margin: 10px;
-      padding: 20px;
+      padding: 0;
       border-style: solid;
       background: white;
       border-color: #cccccc;
-      border-width: 1px;
+      border-width: 0;
 }
 
 #followme img {
