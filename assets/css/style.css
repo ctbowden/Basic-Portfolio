@@ -156,7 +156,7 @@ p {
 footer {
       background: #666666;
       color: white;
-      position: absolute;
+      position: relative;
       right: 0;
       bottom: 0;
       left: 0;
