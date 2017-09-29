@@ -25,7 +25,7 @@ header {
       background: white;
       width: auto;
       height: 65px;
-      border-bottom: 2px solid #cccccc;
+      border: 1px solid #cccccc;
 }
 
 header h1 {
@@ -68,7 +68,6 @@ nav > li > a:focus,
 nav > li > a:visited,
 nav > li > a:link {
       text-decoration: none;
-      color: #777777;
 }
 
 hr {
@@ -140,8 +139,8 @@ h3 {
       padding: 10px;
       border-style: solid;
       background: white;
-      border-color: #cccccc;
-      border-width: 0;
+      border-color: #dddddd;
+      border-width: 1px;
       height: auto;
 }
 
@@ -153,8 +152,8 @@ h3 {
       padding: 5px;
       border-style: solid;
       background: white;
-      border-color: #cccccc;
-      border-width: 0;
+      border-color: #dddddd;
+      border-width: 1px;
       text-align: center;
 }
 
@@ -256,7 +255,7 @@ h4 {
    padding: 10px 0 10px 0;
    width: 100%;
 }
-#portfolioThumb {
+.portfolioThumb {
   display: block;
   max-width: 100%;
   height: auto;
